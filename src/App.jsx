@@ -5,7 +5,7 @@ function App() {
 
   return (
     <>
-      <h1>Teste 2</h1>
+      <h1>Pedro Henrique Passos Ornelas de Carvalho</h1>
     </>
 
   )
